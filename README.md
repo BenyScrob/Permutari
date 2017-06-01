@@ -1,0 +1,1 @@
+Creati un repository pentru codul JS de la permutari, care sa urmeze modelul de best practice GIT descris. Trimite-ti linkul GitHub pentru repository.
